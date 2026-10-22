@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriele Fiaschi 👋
 
-I'm a PhD student bridging theoretical physics, complex systems and artificial intelligence. Currently, I am a PhD Student in the *Brain, Mind and Computer Science* program at **Università degli Studi di Padova** & **Fondazione Bruno Kessler (FBK)**. 
+I'm a PhD student bridging theoretical physics, complex systems and artificial intelligence. Currently, I am a enrolled in the *Brain, Mind and Computer Science* program at **Università degli Studi di Padova** & **Fondazione Bruno Kessler (FBK)**. 
 
 My work focuses on translating complex biological processes into mathematical frameworks to build advanced, bio-inspired AI models.
 
